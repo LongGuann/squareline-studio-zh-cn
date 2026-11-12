@@ -1,0 +1,1130 @@
+File	文件
+Edit	编辑
+View	视图
+Windows	窗口
+Help	帮助
+New	新建
+Open	打开
+Save	保存
+Save As	另存为
+Save as	另存为
+Save project	保存工程
+Save Project	保存工程
+Open project	打开工程
+Open Project	打开工程
+New project	新建工程
+New Project	新建工程
+Close Project	关闭工程
+Close project	关闭工程
+Exit	退出
+Quit	退出
+Export	导出
+Export UI Files	导出 UI 文件
+Export UI files	导出 UI 文件
+Export Project	导出工程
+Export project	导出工程
+Create Template Project	创建模板工程
+Create template project	创建模板工程
+Project Settings	工程设置
+Project settings	工程设置
+Preferences	偏好设置
+Settings	设置
+About	关于
+Undo	撤销
+Redo	重做
+Copy	复制
+Paste	粘贴
+Cut	剪切
+Delete	删除
+Duplicate	创建副本
+Select All	全选
+Select all	全选
+Cancel	取消
+OK	确定
+Yes	是
+No	否
+Apply	应用
+Apply Changes	应用更改
+Add	添加
+Remove	移除
+Rename	重命名
+Reset	重置
+Refresh	刷新
+Reload	重新加载
+Browse...	浏览…
+Close	关闭
+Create	创建
+Continue	继续
+Don't Save	不保存
+Don't save	不保存
+Don't export	不导出
+Save and reload	保存并重新加载
+Welcome	欢迎
+Welcome to the\nSquareLine Studio	欢迎使用\nSquareLine Studio
+Start SquareLine	启动 SquareLine
+Load Project	加载工程
+Import Project	导入工程
+Open Selected Project	打开所选工程
+No Project	未打开工程
+Recent projects	最近工程
+Recent Projects	最近工程
+Projects	工程
+Examples	示例
+Example	示例
+Board	开发板
+Boards	开发板
+Board Group	开发板分组
+Board Description	开发板说明
+Project Description	工程说明
+Project name	工程名称
+Project location	工程位置
+Project Export Root	工程导出根目录
+UI Files Export Path	UI 文件导出路径
+LVGL Include Path	LVGL 头文件路径
+Resolution	分辨率
+Color depth	色深
+Color	颜色
+Colors	颜色
+Color Picker	拾色器
+Color name	颜色名称
+Theme color	主题颜色
+Theme	主题
+Themes	主题
+Theme name	主题名称
+Selected theme	所选主题
+Select theme	选择主题
+Default theme	默认主题
+Colors of default theme	默认主题颜色
+Colors of more themes	其他主题颜色
+Dark theme	深色主题
+Light	浅色
+Canvas and UI	画布与界面
+Canvas Properties	画布属性
+UI Properties	UI 属性
+UI Scale	界面缩放
+UI scale reset	重置界面缩放
+Reset UI layout	重置界面布局
+Start in maximized window	启动时最大化窗口
+Autosave	自动保存
+Undo history size	撤销历史记录数量
+Save hierarchy state	保存层级展开状态
+Save screens separately	分别保存各屏幕
+Reverse event order	反转事件顺序
+Flat export (exports all files to one folder)	平铺导出（所有文件放入同一文件夹）
+Force export all images	强制导出所有图像
+Optimize image formats (in C source export)	优化图像格式（C 源码导出）
+Export temporary image	导出临时图像
+Format .spj and .ecomp files	格式化 .spj 和 .ecomp 文件
+Force exported names to lower case	强制使用小写导出名称
+Add widget type/subcomponent name to component part define	在组件部分定义中加入控件类型或子组件名称
+Advance alpha blending (activate advance alpha where available)	高级透明度混合（可用时启用）
+Custom variable prefix	自定义变量前缀
+Byte array attribute prefix	字节数组属性前缀
+Object naming	对象命名规则
+Image export mode	图像导出模式
+LVGL version	LVGL 版本
+Select major LVGL version:	选择 LVGL 主版本：
+Select a board!	请选择开发板！
+Select example resolution	选择示例分辨率
+Select drive letter	选择盘符
+STDIO Drive	STDIO 驱动器
+POSIX Drive	POSIX 驱动器
+WIN32 Drive	WIN32 驱动器
+FATFS Drive	FATFS 驱动器
+Root path	根路径
+Offset	偏移
+Offset X	X 偏移
+Offset Y	Y 偏移
+Pixel aspect	像素宽高比
+Width	宽度
+Height	高度
+Position	位置
+Position X	X 位置
+Position Y	Y 位置
+Pos X	X 位置
+Pos Y	Y 位置
+Move Pos X	移动 X 位置
+Move X	移动 X
+Move Y	移动 Y
+Size	尺寸
+Rotate	旋转
+Rotation	旋转角度
+Scale	缩放
+Zoom	缩放
+Zoom in	放大
+Zoom out	缩小
+Zoom in/out	缩放
+Zoom X	X 轴缩放
+Zoom Y	Y 轴缩放
+Fit active screen	适合当前屏幕
+Fit all screens	适合所有屏幕
+Pan screen	平移画布
+Play / Stop	播放 / 停止
+Refresh all screen	刷新所有屏幕
+Restart LVGL	重启 LVGL
+Name	名称
+Description	说明
+Type	类型
+Class	类型
+Id	标识
+ID	标识
+Date	日期
+Version	版本
+Copyright	版权
+Contact	联系
+Website	网站
+Terms of use	使用条款
+Check for update	检查更新
+Check for updates	检查更新
+License	许可证
+Licence Type	许可证类型
+License ID	许可证编号
+Validity	有效期
+Manual License Activation	手动激活许可证
+Import SquareLine Studio key for manual activation	导入 SquareLine Studio 密钥以手动激活
+License activation successful!	许可证激活成功！
+License activation was successful and you can start working now	许可证已成功激活，可以开始使用
+There is no license attached to your computer	此计算机尚未绑定许可证
+Choose from the licenses below	请从下方选择许可证
+Select license	选择许可证
+Buy license	购买许可证
+Revoke licence	撤销许可证
+Revoke	撤销
+Log In	登录
+Log in	登录
+Log in and activate your license	登录并激活许可证
+Logout	退出登录
+Sign up	注册
+Email	邮箱
+Password	密码
+username	用户名
+Don't have any account?	还没有账号？
+Continue with trial	继续试用
+There are 30 days left\nin the trial version	试用期还剩 30 天
+Accept	接受
+Decline	拒绝
+Click here to read the EULA	点击此处阅读最终用户许可协议
+Information	信息
+Info	信息
+Error detected	检测到错误
+View log file	查看日志文件
+Send	发送
+Enter additional information to here...	在此输入补充信息…
+Enter name...	输入名称…
+Enter path...	输入路径…
+Enter project name...	输入工程名称…
+Enter text...	输入文本…
+Unsaved changes	未保存的更改
+Do you want to save the changes before closing SquareLine Studio?	关闭 SquareLine Studio 前是否保存更改？
+Do you want to save the changes before closing the project?	关闭工程前是否保存更改？
+Please APPLY the modification	请应用当前修改
+Only unique name with letters, numbers\n and space allowed. Start with letter.	名称必须唯一，只能包含字母、数字和空格，且以字母开头。
+The asset folder is empty.\nCopy your images into the assets folder in your project folder or use the button below.	资源文件夹为空。\n请将图像复制到工程的 assets 文件夹，或使用下方按钮添加。
+  Copy your images into the assets folder in your project folder	  请将图像复制到工程的 assets 文件夹
+Copy your font files(.ttf,.otf) to the project's asset folder	请将字体文件（.ttf、.otf）复制到工程的 assets 文件夹
+Copy font files(*.ttf,*.otf) to Asset folder to use custom fonts!	将字体文件（.ttf、.otf）复制到 assets 文件夹以使用自定义字体！
+Add file into assets	添加文件到资源
+Asset	资源
+Assets	资源
+Widget	控件
+Widgets	控件
+Hierarchy	层级
+Inspector	属性检查器
+Screens	屏幕
+Screen	屏幕
+Screen / Component	屏幕 / 组件
+Screen Name	屏幕名称
+Screen - 	屏幕 - 
+Component	组件
+Components	组件
+Component name	组件名称
+Edit Component	编辑组件
+Save Component	保存组件
+Detach	解除关联
+Show component name	显示组件名称
+Show component root	显示组件根节点
+Delete widget	删除控件
+Paste as child	粘贴为子节点
+Basic	基础
+Controller	交互控件
+Visualiser	可视化控件
+Function	函数
+Functions	函数
+Object	对象
+Object type (subtype)	对象类型（子类型）
+Panel	面板
+Container	容器
+Button	按钮
+Buttons Group	按钮组
+Label	标签
+Text	文本
+TextArea	文本框
+Textarea	文本框
+Text area	文本框
+Image	图像
+Image Set	图像集
+ImageSet	图像集
+Images	图像
+ImgButton	图像按钮
+Image button	图像按钮
+Arc	圆弧
+Bar	进度条
+Slider	滑块
+Switch	开关
+Checkbox	复选框
+Check box	复选框
+Dropdown	下拉列表
+Roller	滚轮选择器
+Keyboard	键盘
+Chart	图表
+Calendar	日历
+Colorwheel	色轮
+Spinbox	数值框
+Spinner	加载动画
+Tabview	选项卡视图
+TabView	选项卡视图
+Tabpage	选项卡页面
+TabPage	选项卡页面
+Tabpages	选项卡页面
+Tab	选项卡
+Tab Head Title	选项卡标题
+Tab Page #1	选项卡页面 #1
+Group	分组
+Group name	分组名称
+Parent	父对象
+Children	子对象
+No child	无子对象
+Layer	图层
+Depth	深度
+Animation	动画
+Animations	动画
+Animation name	动画名称
+Manage Animation	管理动画
+Add Animation	添加动画
+Add New Animation	新建动画
+Select Animation	选择动画
+Play Animation	播放动画
+Play Type	播放类型
+PlayType	播放类型
+Playback Time	播放时间
+PlaybackTime	播放时间
+Playback Delay	播放延迟
+PlaybackDelay	播放延迟
+Loop Count	循环次数
+LoopCount	循环次数
+Loop Delay	循环间隔
+LoopDelay	循环间隔
+LoopInfinite	无限循环
+FullAnimationDuration	动画总时长
+Start Value	起始值
+StartValue	起始值
+End Value	结束值
+EndValue	结束值
+Duration	持续时间
+Delay	延迟
+Time	时间
+Instant	立即
+Infinite	无限
+Forward	正向
+Backward	反向
+Forward once	正向一次
+Not Reversed	不反转
+Reverse	反转
+PingPong	往返
+linear	线性
+bounce	弹跳
+ease_in	缓入
+ease_out	缓出
+ease_in_out	缓入缓出
+overshoot	回弹
+step	阶跃
+EarlyApply	提前应用
+Image angle	图像角度
+Image zoom	图像缩放
+Image frame	图像帧
+Event	事件
+Events	事件
+Event name	事件名称
+EventHandler	事件处理器
+Trigger	触发条件
+Action	动作
+Action (Screen change)	动作（切换屏幕）
+Conditions	条件
+Initial actions	初始动作
+Custom events	自定义事件
+Change Screen	切换屏幕
+Delete Screen	删除屏幕
+Call Function	调用函数
+Call functions export file	函数调用导出文件
+Set Property	设置属性
+Property	属性
+Property Name	属性名称
+Add Property	添加属性
+Variable name	变量名称
+VariableName	变量名称
+Variables	变量
+Value	值
+Default value	默认值
+Custom variable alias	自定义变量别名
+C condition function name	C 条件函数名称
+Python condition function name	Python 条件函数名称
+Function name	函数名称
+FunctionName	函数名称
+PropertyFunction	属性函数
+PropertyGetter	属性读取函数
+Call	调用
+CallC	调用 C 函数
+Target	目标
+Target_textarea	目标文本框
+TargetTypeFilter	目标类型筛选
+TestTarget	测试目标
+AbsoluteReference	绝对引用
+Reference	引用
+Relative	相对
+Screen to	目标屏幕
+Screen_to	目标屏幕
+PropertyAnimation	属性动画
+AnimationTargetObjectType	动画目标对象类型
+Set Opacity	设置不透明度
+Modify Flag	修改标志
+Modify State	修改状态
+Keyboard Set Target	设置键盘输入目标
+Move Cursor	移动光标
+Increment Arc	增加圆弧值
+Increment Bar	增加进度值
+Increment Slider	增加滑块值
+Step Spinbox	调整数值框
+Switch Theme	切换主题
+Set Text Value From Arc	根据圆弧值设置文本
+Set Text Value From Slider	根据滑块值设置文本
+Set Text Value When Checked	根据选中状态设置文本
+Nulling Callback	清空回调
+Style	样式
+Style Settings	样式设置
+Style main	主部件样式
+Style bg	背景样式
+Style bullet	标记样式
+Style buttons items	按钮项样式
+Style buttons main	按钮主体样式
+Style cursor	光标样式
+Style date grid	日期网格样式
+Style header	标题栏样式
+Style header next	下一项按钮样式
+Style header previous	上一项按钮样式
+Style header title	标题文本样式
+Style indicator	指示器样式
+Style items	项目样式
+Style knob	旋钮样式
+Style list main	列表主体样式
+Style list scrollbar	列表滚动条样式
+Style list selected	列表选中项样式
+Style placeholder	占位文本样式
+Style scrollbar	滚动条样式
+Style selected	选中项样式
+Style ticks	刻度样式
+Background	背景
+Rectangle	矩形
+Line	线条
+Border	边框
+Outline	轮廓
+Shadow	阴影
+Blend	混合
+Paddings	内边距
+Padding	内边距
+Pad	内边距
+Transform	变换
+Anim1	动画
+State	状态
+States	状态
+Flags	标志
+Flag	标志
+Hidden	隐藏
+Temporary	临时屏幕
+Clickable	可点击
+Checkable	可选中
+Checked	已选中
+Disabled	禁用
+Focused	已聚焦
+Pressed	按下
+Edited	已编辑
+Selected	已选择
+Floating	浮动
+Scrollable	可滚动
+Scrolling	滚动
+Adv hittest	高级点击检测
+Click focusable	点击时聚焦
+Press lock	锁定按压
+Ignore layout	忽略布局
+Overflow visible	显示溢出内容
+Flex in new track	Flex 换行
+Event bubble	事件冒泡
+Gesture bubble	手势冒泡
+Snappable	支持滚动吸附
+State trickle	状态向子级传递
+Scroll elastic	弹性滚动
+Scroll momentum	惯性滚动
+Scroll on focus	聚焦时滚动
+Scroll with arrow	方向键滚动
+Scroll chain	连锁滚动
+Scroll one	每次滚动一项
+Scrollbar mode	滚动条模式
+Scroll direction	滚动方向
+Scroll snap x	X 轴滚动吸附
+Scroll snap y	Y 轴滚动吸附
+Extend click area	扩展点击区域
+Layout	布局
+Layout type	布局类型
+No Layout	无布局
+No_layout	无布局
+Flex	Flex 弹性布局
+Flex Flow	Flex 排列方向
+Row	行
+Column	列
+Wrap	换行
+No wrap	不换行
+Align	对齐
+Default align	默认对齐
+Main dir. align	主轴对齐
+Cross dir. align	交叉轴对齐
+Track	轨道
+Inner align	内部对齐
+List align	列表对齐
+Fill	填充
+Filter Strength	筛选强度
+Apply filter	应用筛选
+Range	范围
+Min	最小值
+Max	最大值
+Options	选项
+Long mode	长文本模式
+Recolor	文本重着色
+One line mode	单行模式
+Single line	单行
+Multilanguage	多语言
+Multilanguage support	多语言支持
+To be translated	需要翻译
+Password mode	密码模式
+Accepted characters	允许输入的字符
+Max text length	最大文本长度
+Placeholder	占位文本
+Placeholder...	占位文本…
+Base text	基础文本
+On text	选中时文本
+Off text	未选中时文本
+Prefix	前缀
+Postfix	后缀
+Text align	文本对齐
+Font name	字体名称
+Font size	字号
+Select font asset	选择字体资源
+Create New Font	创建字体
+Created Fonts	已创建字体
+Font	字体
+Fonts	字体
+Bpp	每像素位数
+Letters	字符
+Letter	字符
+Symbols	符号
+Range max	范围最大值
+Range min	范围最小值
+ASCII standard	标准 ASCII
+ASCII standar	标准 ASCII
+ASCII lowercase	ASCII 小写字母
+ASCII uppercase	ASCII 大写字母
+ASCII extended	扩展 ASCII
+Chinese	中文
+Japanese	日文
+Korean	韩文
+Data	数据
+Data 1	数据 1
+ChartData	图表数据
+Chart data	图表数据
+Chart type	图表类型
+Number of points	数据点数量
+Axis	坐标轴
+X Axis	X 轴
+Primary Y	主 Y 轴
+Primary Y Axis	主 Y 轴
+Secondary Y Axis	次 Y 轴
+Primary Y range	主 Y 轴范围
+Secondary Y range	次 Y 轴范围
+PrimaryYMajor	主 Y 轴主刻度
+PrimaryYMinor	主 Y 轴次刻度
+SecondaryYMajor	次 Y 轴主刻度
+SecondaryYMinor	次 Y 轴次刻度
+XMajor	X 轴主刻度
+XMinor	X 轴次刻度
+Division lines	分割线
+Division line count X	X 轴分割线数量
+Division line count Y	Y 轴分割线数量
+Major tick count	主刻度数量
+Major tick length	主刻度长度
+Minor tick count	次刻度数量
+Minor tick length	次刻度长度
+Labels on Primary Y axis	主 Y 轴标签
+Labels on Secondary Y axis	次 Y 轴标签
+Labels on X axis	X 轴标签
+Font size on Primary Y axis	主 Y 轴标签字号
+Font size on Secondary Y axis	次 Y 轴标签字号
+Font size on X axis	X 轴标签字号
+Add Series	添加数据系列
+Add Theme	添加主题
+Add Color	添加颜色
+Add Tab Page	添加选项卡页面
+Add Event	添加事件
+Array names	数组元素名称
+Contents Item	项目内容
+Item Header	项目标题
+Title	标题
+Tab position	选项卡位置
+Tab size	选项卡尺寸
+Show selected	显示选中项
+Mode	模式
+Fixed mode	固定模式
+Fade mode	切换动画
+Angle	角度
+Bg angles	背景角度
+Bg start angle	背景起始角度
+Bg end angle	背景终止角度
+Button state	按钮状态
+Image released	释放时图像
+Image pressed	按下时图像
+Image disabled	禁用时图像
+Image checked released	选中释放时图像
+Image checked pressed	选中按下时图像
+Image checked disabled	选中禁用时图像
+Digit format	数字格式
+Digit count	数字位数
+Increment position	递增位位置
+Separator position	分隔符位置
+Count	数量
+Day	日
+Month	月
+Year	年
+Pivot	旋转中心
+Pivot X	旋转中心 X
+Pivot Y	旋转中心 Y
+Path	路径
+Speed	速度
+Shape	形状
+Middle button	鼠标中键
+Mouse X: 	鼠标 X：
+Mouse Y: 	鼠标 Y：
+Current	当前
+Custom	自定义
+Default	默认
+None	无
+Normal	正常
+All	全部
+Auto	自动
+On	开
+Off	关
+Enable	启用
+Disable	禁用
+True	是
+False	否
+Start	开始
+End	结束
+Up	向上
+Down	向下
+Left	左
+Right	右
+Top	上
+Bottom	下
+Center	居中
+Top left	左上
+Top mid	上中
+Top right	右上
+Bottom left	左下
+Bottom mid	下中
+Bottom right	右下
+Left mid	左中
+Right mid	右中
+Stretch	拉伸
+Content	内容自适应
+Pixel	像素
+Percent	百分比
+Grow	弹性增长
+Horizontal	水平
+Vertical	垂直
+HOR	水平
+VER	垂直
+DOT	点
+DOTS	省略号
+CLIP	裁切
+SCROLL_CIRCULAR	循环滚动
+SYMMETRICAL	对称
+RANGE	范围
+LINE	折线
+SCATTER	散点
+HUE	色相
+SATURATION	饱和度
+VALUE	明度
+NUMBER	数字
+TEXT_LOWER	小写字母
+TEXT_UPPER	大写字母
+SPECIAL	特殊字符
+TILE	平铺
+FADE_ON	淡入
+FADE_OUT	淡出
+MOVE_LEFT	向左移动
+MOVE_RIGHT	向右移动
+MOVE_TOP	向上移动
+MOVE_BOTTOM	向下移动
+OUT_LEFT	向左移出
+OUT_RIGHT	向右移出
+OUT_TOP	向上移出
+OUT_BOTTOM	向下移出
+OVER_LEFT	从左覆盖
+OVER_RIGHT	从右覆盖
+OVER_TOP	从上覆盖
+OVER_BOTTOM	从下覆盖
+TOGGLE	切换
+REMOVE	移除
+INSERT	插入
+ACTIVE	活动
+READY	就绪
+RELEASED	释放
+CLICKED	点击
+SHORT_CLICKED	短按
+LONG_PRESSED	长按
+LONG_PRESSED_REPEAT	持续长按
+PRESS_LOST	按压丢失
+DEFOCUSED	失去焦点
+FOCUS_KEY	键盘聚焦
+SCROLLED	滚动中
+SCROLL_BEGIN	滚动开始
+SCROLL_END	滚动结束
+VALUE_CHANGED	数值变化
+SCREEN_LOADED	屏幕加载完成
+SCREEN_LOAD_START	屏幕开始加载
+SCREEN_UNLOADED	屏幕卸载完成
+SCREEN_UNLOAD_START	屏幕开始卸载
+KEY	按键
+KEY_DOWN(KEY)	按下方向键 ↓
+KEY_UP(KEY)	按下方向键 ↑
+KEY_LEFT(KEY)	按下方向键 ←
+KEY_RIGHT(KEY)	按下方向键 →
+KEY_ENTER(KEY)	按下回车键
+KEY_ESC(KEY)	按下 Esc 键
+KEY_NEXT(KEY)	下一项按键
+KEY_PREV(KEY)	上一项按键
+GESTURE_LEFT(GESTURE)	向左手势
+GESTURE_RIGHT(GESTURE)	向右手势
+GESTURE_UP(GESTURE)	向上手势
+GESTURE_DOWN(GESTURE)	向下手势
+CHECKED(VALUE_CHANGED)	选中（数值变化）
+UNCHECKED(VALUE_CHANGED)	取消选中（数值变化）
+CHECKED_DISABLED	选中并禁用
+CHECKED_PRESSED	选中并按下
+CHECKED_RELEASED	选中并释放
+CHECKED|FOCUSED	选中并聚焦
+CHECKED|FOCUS_KEY	选中并键盘聚焦
+CHECKED|PRESSED	选中并按下
+USER_1	用户状态 1
+USER_2	用户状态 2
+USER_3	用户状态 3
+USER_4	用户状态 4
+Selected_with_anim	选中（带动画）
+Value_with_anim	设置数值（带动画）
+Value_left	左侧数值
+Value_start	起始数值
+Draw size	绘制尺寸
+-1(DECREMENT)	-1（递减）
+1(INCREMENT)	1（递增）
+All resolutions	所有分辨率
+Edit mode	编辑模式
+File Saved	文件已保存
+Project Export Succeeded	工程导出成功
+Export in progress	正在导出
+Project settings changed	工程设置已更改
+Please save the project first	请先保存工程
+Export Screenshots	导出截图
+Export Screenshots...	导出截图…
+History	历史记录
+Console	控制台
+LVGL Python server console	LVGL Python 服务端控制台
+History is turned off in Preferences	历史记录已在偏好设置中关闭
+Font has created successfully	字体创建成功
+Would you like to overwrite?	是否覆盖？
+Would you like to revoke this license?	是否撤销此许可证？
+License revoke success	许可证撤销成功
+License revoke failed	许可证撤销失败
+(connection error)	（连接错误）
+(server/db error)	（服务器或数据库错误）
+Check the console for more information!	请查看控制台了解详情！
+Please check the console	请查看控制台
+Error: LVGL crashed	错误：LVGL 已崩溃
+LVGL crashed	LVGL 已崩溃
+Select an image	选择图像
+Select an image set	选择图像集
+Select Project Folder	选择工程文件夹
+Select Project File	选择工程文件
+Select File Project Export Root Folder	选择工程导出根目录
+Please apply the new size!	请应用新尺寸！
+Downloading board list	正在下载开发板列表
+Project template ready	工程模板已就绪
+Extracting board template files...	正在解压开发板模板文件…
+Extracting LVGL files...	正在解压 LVGL 文件…
+Connecting...	正在连接…
+Login successful!	登录成功！
+Enter username and password	请输入用户名和密码
+Check license...	正在检查许可证…
+No internet connection	无法连接网络
+Contact support	联系支持
+Open new project	打开新工程
+Connection failed	连接失败
+Unknown error	未知错误
+Warning	警告
+Error	错误
+Failed	失败
+Success	成功
+Fix and export	修复并导出
+Export anyway	仍然导出
+Forget and reset	清除并重置
+Modify	修改
+Del	删除
+Filter	筛选
+Search	搜索
+Search...	搜索…
+File browser	文件浏览器
+Folders	文件夹
+Folder	文件夹
+File name	文件名
+Filename	文件名
+Show hidden files	显示隐藏文件
+Select	选择
+Select folder	选择文件夹
+Select file	选择文件
+Select Folder	选择文件夹
+Select File	选择文件
+0 degree	0 度
+Image type anims works only with simple images!	图像类型动画仅支持简单图像！
+The component is exists already.	该组件已存在。
+Component not found!	未找到组件！
+All changes will be lost!	所有更改都将丢失！
+Basic properties	基础属性
+Image properties	图像属性
+Label properties	标签属性
+Dropdown properties	下拉列表属性
+Roller properties	滚轮属性
+Slider properties	滑块属性
+Bar properties	进度条属性
+BASIC_PROPERTY	基础属性
+IMAGE_PROPERTY	图像属性
+LABEL_PROPERTY	标签属性
+DROPDOWN_PROPERTY	下拉列表属性
+ROLLER_PROPERTY	滚轮属性
+SLIDER_PROPERTY	滑块属性
+BAR_PROPERTY	进度条属性
+PROPERTYANIMATION	属性动画
+STARTEVENTS	初始动作
+ELOANIMATION	自定义动画
+Bg Radius	背景圆角
+Bg Color	背景颜色
+Bg gradient params	背景渐变参数
+Clip corner	裁切圆角
+Border Color	边框颜色
+Border Width	边框宽度
+Border Side	边框方向
+Outline Color	轮廓颜色
+Outline Width	轮廓宽度
+Outline Pad	轮廓间距
+Shadow Color	阴影颜色
+Shadow params	阴影参数
+Shadow offset	阴影偏移
+Blend mode	混合模式
+Blend opacity	混合不透明度
+Bg Image	背景图像
+Bg Image opa	背景图像不透明度
+Text Color	文本颜色
+Text Font	文本字体
+Text Spacing	文本间距
+Text Line Space	文本行距
+Line Color	线条颜色
+Line Width	线条宽度
+Arc Color	圆弧颜色
+Arc Width	圆弧宽度
+Arc Rounded	圆弧端点圆角
+Animation Time	动画时间
+Transform rotation	变换旋转
+Transform pivot	变换中心
+Transform scale	变换缩放
+Transform zoom	变换缩放
+Opacity	不透明度
+Radius	圆角半径
+Bg opacity	背景不透明度
+Text opacity	文本不透明度
+Border opacity	边框不透明度
+Outline opacity	轮廓不透明度
+Shadow opacity	阴影不透明度
+Line opacity	线条不透明度
+Arc opacity	圆弧不透明度
+LVGL def value	LVGL 默认值
+C code	C 代码
+Python code	Python 代码
+Token for request	请求令牌
+Default font	默认字体
+Import	导入
+Export UI	导出 UI
+Export all	全部导出
+Save All	全部保存
+Main	主体
+Indicator	指示器
+Knob	旋钮
+Scrollbar	滚动条
+Cursor	光标
+Items	项目
+Ticks	刻度
+Bullet	标记
+Part	部件
+Parts	部件
+Part selector	部件选择
+Text decoration	文本装饰
+Text decor	文本装饰
+Line space	行距
+Letter space	字距
+Underline	下划线
+Strikethrough	删除线
+Color format	颜色格式
+Normal blend	普通混合
+Additive	加色
+Subtractive	减色
+Multiply	正片叠底
+Reverse export order	反向导出顺序
+User 1	用户状态 1
+User 2	用户状态 2
+User 3	用户状态 3
+User 4	用户状态 4
+Object name	对象名称
+Foreground	前景
+Background image	背景图像
+Default state	默认状态
+Size X	X 尺寸
+Size Y	Y 尺寸
+Position (X,Y)	位置（X，Y）
+Size (Width,Height)	尺寸（宽，高）
+Position (X, Y)	位置（X，Y）
+Size (Width, Height)	尺寸（宽，高）
+Position and size	位置与尺寸
+Padding left	左内边距
+Padding right	右内边距
+Padding top	上内边距
+Padding bottom	下内边距
+Padding row	行间距
+Padding column	列间距
+Opacity scale	整体不透明度
+Image opacity	图像不透明度
+Image recolor	图像重着色
+Image recolor opacity	图像重着色不透明度
+Bg image recolor	背景图像重着色
+Bg image recolor opa	背景图像重着色不透明度
+Bg image tiled	背景图像平铺
+Color filter	颜色滤镜
+Min width	最小宽度
+Max width	最大宽度
+Min height	最小高度
+Max height	最大高度
+Alpha	透明度
+Manual license activation	手动激活许可证
+Business, Montly renewal	商业版，每月续费
+Scroll	滚动
+Source code	源代码
+Save as Project	工程另存为
+Open File	打开文件
+Select File Export Folder	选择文件导出目录
+Relative path	相对路径
+Full path	完整路径
+License error	许可证错误
+License selector	许可证选择
+Connection success	连接成功
+Project Loaded	工程已加载
+Project loaded	工程已加载
+Invalid Export Path	导出路径无效
+OVERWRITE	覆盖
+Would you like to overwrite your exists project?	是否覆盖现有工程？
+Would you like to reset the layout?	是否重置界面布局？
+No response	无响应
+License active	许可证已激活
+in TRIAL	试用中
+You have no usable license!	没有可用的许可证！
+Logging in...	正在登录…
+Get license...	正在获取许可证…
+HTTP error!	HTTP 错误！
+The trial license is expired or invalid!	试用许可证已过期或无效！
+Communication error with the license server!	与许可证服务器通信失败！
+Please remove the references from the scene before delete.	删除前，请先移除场景中对此对象的引用。
+Exporting option not selected	未选择导出选项
+Export folder does not exist.	导出文件夹不存在。
+Export finished successfully.	导出成功完成。
+Export completed	导出完成
+Export Succeeded	导出成功
+Code generation complete	代码生成完成
+Code generation completed	代码生成完成
+Communication error	通信错误
+Cannot process response from server.	无法处理服务器响应。
+The proxy requires authentication (HTTP 407).	代理服务器需要身份验证（HTTP 407）。
+The proxy connection timed out.	代理连接超时。
+The proxy is unreachable.	无法连接代理服务器。
+The network request was cancelled.	网络请求已取消。
+All configured proxy candidates are unreachable.	所有已配置的代理均无法连接。
+Manual activation	手动激活
+Check SquareLine Update	检查 SquareLine 更新
+Portable license is in use on an another computer!	便携许可证正在另一台计算机上使用！
+Editor version check	编辑器版本检查
+Font updated	字体已更新
+Dropdown List	下拉列表
+Select an example!	请选择示例！
+Selected board is not supported with current LVGL packages!	当前 LVGL 软件包不支持所选开发板！
+Welcome to SquareLine Studio	欢迎使用 SquareLine Studio
+Select/Import a project to open!	请选择或导入要打开的工程！
+Select project folder	选择工程文件夹
+Project is not found,\nremove from the list?	找不到工程，是否从列表中移除？
+The project is not found at the specified path.	指定路径中未找到工程。
+Would you like to remove it from the list?	是否将其从列表中移除？
+A project already exists in this folder, please select a blank folder!	此文件夹中已存在工程，请选择空文件夹！
+Insertion is not possible because the highest element in the structure needs FLEX layout.	无法插入：层级中的顶层元素需要使用 Flex 布局。
+Insertion is not possible because the highest element in the structure needs [ROW] FLEX layout.	无法插入：层级中的顶层元素需要使用行方向的 Flex 布局。
+Select a parent screen first	请先选择父屏幕
+Project File Saving in Progress	正在保存工程文件
+Project Loading in progress	正在加载工程
+Refreshing widgets	正在刷新控件
+Refreshing components	正在刷新组件
+The project was created with a newer version of SquareLine Studio.	此工程由较新版本的 SquareLine Studio 创建。
+Are you sure you want to open the project?	确定要打开此工程吗？
+Loading project file	正在加载工程文件
+Loading theme	正在加载主题
+Check property changes	正在检查属性更改
+Check version compatibility	正在检查版本兼容性
+Init images	正在初始化图像
+Init fonts	正在初始化字体
+Sync widgets on screens	正在同步屏幕控件
+Sync widgets on components	正在同步组件控件
+Refresh images	正在刷新图像
+Search for missing assets	正在查找缺失资源
+Prepare for rebuild	正在准备重新构建
+Component saving in progress	正在保存组件
+Save error!	保存失败！
+Component save error!	组件保存失败！
+Component saved	组件已保存
+Autosave Done	自动保存完成
+Generating source code...	正在生成源代码…
+Setting up project folder...	正在设置工程文件夹…
+Starting export...	正在开始导出…
+Generating components...	正在生成组件…
+Generating screens...	正在生成屏幕…
+Exporting images...	正在导出图像…
+Exporting binary images...	正在导出二进制图像…
+Exporting Screenshots...	正在导出截图…
+Project Export in progress	正在导出工程
+Updating font configuration...	正在更新字体配置…
+Updating drive configuration...	正在更新驱动器配置…
+Updating SVG configuration...	正在更新 SVG 配置…
+Starting play mode...	正在启动播放模式…
+Leaving play mode...	正在退出播放模式…
+Play mode is active	播放模式已启用
+Export Python Dev	导出 Python 开发工程
+Check console for more information!	请查看控制台了解详情！
+LVGL 9.1 is not support 8 bpp fonts,\nplease use 4 bpp mode!	LVGL 9.1 不支持 8 bpp 字体，请使用 4 bpp 模式！
+Dont export	不导出
+Do not export	不导出
+Binary compressed	压缩二进制
+Binary raw	原始二进制
+Binary LVGL	LVGL 二进制
+Gradient direction	渐变方向
+Border side	边框方向
+Border width	边框宽度
+Min Width	最小宽度
+Max Width	最大宽度
+Min Height	最小高度
+Max Height	最大高度
+Bg main stop	渐变主色位置
+Bg gradient stop	渐变末色位置
+Recolor R	重着色 R
+Recolor G	重着色 G
+Recolor B	重着色 B
+Recolor A	重着色 A
+Shadow R	阴影 R
+Shadow G	阴影 G
+Shadow B	阴影 B
+Shadow A	阴影 A
+Outline R	轮廓 R
+Outline G	轮廓 G
+Outline B	轮廓 B
+Outline A	轮廓 A
+Line R	线条 R
+Line G	线条 G
+Line B	线条 B
+Line A	线条 A
+Text R	文本 R
+Text G	文本 G
+Text B	文本 B
+Text A	文本 A
+Bg R	背景 R
+Bg G	背景 G
+Bg B	背景 B
+Bg A	背景 A
+Gradient R	渐变 R
+Gradient G	渐变 G
+Gradient B	渐变 B
+Border R	边框 R
+Border G	边框 G
+Border B	边框 B
+Border A	边框 A
+Letter spacing	字距
+Line spacing	行距
+Outline width	轮廓宽度
+Outline pad	轮廓间距
+Shadow OX	阴影 X 偏移
+Shadow OY	阴影 Y 偏移
+Shadow width	阴影宽度
+Shadow spread	阴影扩散
+Pad Left	左内边距
+Pad Right	右内边距
+Pad Top	上内边距
+Pad Bottom	下内边距
+Pad Row	行间距
+Pad Column	列间距
+Pixel aspect is 1, set it in Project Settings to see the physical preview	像素宽高比为 1；可在工程设置中调整以查看物理预览
+Widget moved from one screen to another	控件已移动到其他屏幕
+PURPLE	紫色
+DEEP_PURPLE	深紫色
+INDIGO	靛蓝色
+LIGHT_BLUE	浅蓝色
+BLUE	蓝色
+GREEN	绿色
+LIGHT_GREEN	浅绿色
+YELLOW	黄色
+AMBER	琥珀色
+ORANGE	橙色
+DEEP_ORANGE	深橙色
+BROWN	棕色
+BLUE_GREY	蓝灰色
+RED	红色
+WHITE	白色
+BLACK	黑色
+GREY	灰色
+Imgbutton	图像按钮
+Errors	错误
+Inspector	属性
+History	历史
+STYLE (MAIN)	样式（主体）
+STYLE (SCROLLBAR)	样式（滚动条）
+STYLE (INDICATOR)	样式（指示器）
+STYLE (KNOB)	样式（旋钮）
+STYLE (ITEMS)	样式（项目）
+STYLE (SELECTED)	样式（选中项）
+STYLE (CURSOR)	样式（光标）
+STYLE (TICKS)	样式（刻度）
+STYLE (PLACEHOLDER)	样式（占位文本）
+Copy your images into the assets folder in your project folder	请将图像复制到工程的 assets 文件夹
+Open log file	打开日志文件
+Open Log File	打开日志文件
+Editor Properties	编辑器属性
+Licence	许可证
+Personal	个人版
+Business	商业版
+Small Business	小型企业版
+Trial	试用版
+Lifetime	终身版
+Portable	便携版

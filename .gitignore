@@ -1,0 +1,23 @@
+# Local build products and original application files
+/汉化补丁/备份/
+/汉化补丁/中文文件/
+/汉化补丁/验证/
+/汉化补丁/校验清单.json
+/SquareLine_Studio_Data/
+/SquareLine_Studio.x86_64
+/UnityPlayer.so
+/libdecor*.so*
+/boards/
+/examples/
+/lvgl/
+# Local configuration, logs and development environments
+/squareline-proxy.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.dll
+*.assets
+*.resS
+*.zip

@@ -1,0 +1,19 @@
+{
+  "result": "通过",
+  "dictionary_entries": 2501,
+  "prefix_entries": 44,
+  "existing_methods_changed": [
+    "OnPopulateMesh",
+    "get_preferredWidth",
+    "get_preferredHeight"
+  ],
+  "text_getter_and_setter": "字节保持原样",
+  "editable_input_and_placeholder": "用户输入保持原样，占位文字可翻译",
+  "original_asset_objects_retained": 691,
+  "all_translation_glyphs_present": true,
+  "assembly_csharp_sha256": "6d92ba673f8fc227b8781965d05213b52a97a138e70af762321d754ec1685854",
+  "sample_export_files": 30,
+  "sample_saved_names_texts_enums": "保持原样（旧示例样式定义由应用正常升级）",
+  "sample_exported_CONTINUE": "保持原样",
+  "english_restore_and_chinese_reenable": "已实际切换验证"
+}
